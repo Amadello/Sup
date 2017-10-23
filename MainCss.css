@@ -3,7 +3,7 @@
 }
 
 .sidebar {
-    background-color: #1a1f27;
+    background-color: #fff;
     padding: 0px !important;
     box-shadow: 2px 2px 5px #262a35;
     height: 100%;
@@ -62,7 +62,7 @@ li:nth-child(odd) {
 }
 
 .navbar .btn-navbar {
-    /*margin-right: 50px;*/
+    /*margin-right: 0px;*/
     margin-top: 15px;
 }
 
